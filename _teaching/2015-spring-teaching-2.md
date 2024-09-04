@@ -1,5 +1,5 @@
 ---
-title: "SCOT 653"
+title: "SCOT 653, Stochastic Models for Production and Service Systems"
 collection: teaching
 type: "Ph.D. Seminar Course, TA"
 permalink: /teaching/2015-spring-teaching-1
