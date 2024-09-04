@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="./images/yukai_JMPphoto.jpg" alt="" width="100" height="100">
-
+<img src="./images/yukai_JMPphoto.jpg" alt="Yukai Huang's Profile Picture" width="200" height="300" style="float: left; margin-right: 10px;">
+<p>
 I am Yukai Huang, a final-year Ph.D. candidate in Supply Chain, Operations, and Technology at Washington University in St. Louis. I am currently on the job market for 2024, seeking a faculty position in Operations Management or Operations Research.
 
 My research interests lie in revenue management, dynamic resource allocation, online assortment optimization, and approximate algorithms. My work focuses on developing innovative solutions and frameworks that address complex challenges in these areas, with the aim of advancing both theoretical understanding and practical applications.

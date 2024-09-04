@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "SCOT 653"
 collection: teaching
-type: "Workshop"
+type: "Ph.D. Seminar Course, TA"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Wustl, Olin Business School"
+date: 2021-09-01
+location: "St. Louis, MO"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Independently holds two tutorial sessions for the Ph.D. Seminar course: 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- **Introduction to Newsvendor Models**
+- **Queueing Networks**
