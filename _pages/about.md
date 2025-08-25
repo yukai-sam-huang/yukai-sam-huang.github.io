@@ -8,13 +8,13 @@ redirect_from:
 ---
 <img src="./images/yukai_JMPphoto.jpg" alt="Yukai Huang's Profile Picture" width="200" height="300" style="float: left; margin-right: 10px;">
 <p>
-I am Yukai Huang, a final-year Ph.D. candidate in Supply Chain, Operations, and Technology at Washington University in St. Louis. I am currently on the job market for 2024, seeking a faculty position in Operations Management or Operations Research.
+I am Yukai Huang, an Assistant Professor in the Information Systems and Operations Management department at Suffolk University.
 
-My research interests lie in revenue management, dynamic resource allocation, online assortment optimization, and approximate algorithms. My work focuses on developing innovative solutions and frameworks that address complex challenges in these areas, with the aim of advancing both theoretical understanding and practical applications.
+I received my Ph.D. in Supply Chain, Operations, and Technology from the Olin Business School at Washington University in St. Louis, where I was fortunate to be advised by Professor Jacob Feldman.
 
-I am fortunate to be advised by Professor Jacob Feldman , whose guidance has been instrumental in shaping my research journey.
+My research interests lie in revenue management, dynamic resource allocation, online assortment optimization, and approximate algorithms. My work focuses on developing innovative frameworks that address complex challenges in these areas, with the aim of advancing both theoretical understanding and practical applications.
 
-I hold a Bachelor's degree in Applied Mathematics from Shanghai Jiaotong University and a Master's degree in Statistics and Operations Research from the University of North Carolina, Chapel Hill.
+I also hold a Master's degree in Statistics and Operations Research from the University of North Carolina, Chapel Hill, and a Bachelor's degree in Applied Mathematics from Shanghai Jiaotong University.
 
-Feel free to explore my website to learn more about my research, CV, and teaching experience. I am always open to discussions and collaborations, so don't hesitate to reach out!
+Please feel free to explore my website to learn more about my research and teaching. I am always open to discussions and collaborations, so don't hesitate to reach out!
 
