@@ -2,9 +2,12 @@
 title: "Approximation Schemes for Dynamic Pricing with Opaque Products"
 excerpt: "Author: Xingxing Chen, Levi DeValve, Jacob Feldman, Yukai Huang, Danny Segev. Major revision in Operations Research."
 collection: portfolio
+status_label: "Major revision in Operations Research."
 research_status: under_review
+preprint_label: "SSRN"
+preprint_url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400432"
 ---
-You can download the paper here: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400432)
+You can download the paper here: [{{ page.preprint_label }}]({{ page.preprint_url }})
 
 **Abstract**: We study a multi-period, multi-product dynamic pricing problem in which, in addition to traditional (transparent) products, the platform can create and price an opaque product—defined as a virtual product composed of a subset of the displayed transparent products. When a customer selects the opaque option, the platform retains the flexibility to fulfill the order using any of its constituent products. This framework extends classical dynamic pricing models by introducing an additional lever of flexibility through opaque selling, allowing the platform to more effectively balance supply and demand.
 We introduce a tractable choice model to capture customer substitution between transparent products and their opaque counterpart. Inspired by the independent demand model, we assume customers arrive with a specific product in mind and substitute only between that product and any opaque option containing it. A key feature of this new choice model is the assumption that customers adopt a pessimistic perspective, valuing an opaque offering based on their least-preferred product included in it. Building upon this model, we devise a constant-factor approximation for the multi-period dynamic pricing problem, leveraging inventory-tracking basis function approximations originally conceived for network revenue management problems. The performance guarantees of our approach depend critically on the ability to solve this single-period version of the problem, which can be viewed as a challenging variant of the classical joint pricing and assortment problem. To address the latter, we develop a quasi-polynomial time approximation scheme (QPTAS), employing novel coupling arguments on customers’ realized opaque utilities to identify collections of opaque options—termed “good” opaque sets—that closely approximate the optimal opaque offering in terms of induced transparent and opaque choice probabilities. Finally, we present extensive numerical experiments demonstrating the practical effectiveness of our algorithmic methods.

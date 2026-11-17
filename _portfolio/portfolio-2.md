@@ -2,10 +2,13 @@
 title: "Prophet Inequalities and Approximation Schemes for a New Class of Overbooking Problems in Container Shipping"
 excerpt: "Author: Jacob Feldman, Panos Kouvelis, Yukai Huang. To appear in Operations Research."
 collection: portfolio
+status_label: "To appear in Operations Research."
 research_status: publication
+preprint_label: "SSRN"
+preprint_url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124363"
 ---
 
-You can download the paper here: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124363)
+You can download the paper here: [{{ page.preprint_label }}]({{ page.preprint_url }})
 
 **Abstract**: In the airline industry, the practice of overbooking has been a celebrated operational tool that has led to revenue gains exceeding hundreds of millions of dollars when implemented correctly. By contrast, in the container shipping industry, the story of overbooking is filled with tales of chronic mistrust between shippers and carriers. Specifically, loose and unenforceable contracting practices have led to a failed market where shippers constantly renege on their agreement to produce containers as promised, and as a result, carriers overbook too frequently in an effort to hedge against this no-show behavior. The cost of such behaviors has been estimated to be in the range of $30-40 billion annually, which highlights the glaring need for a remedy to this issue. In this paper, we propose and study a deposit-based booking system that draws inspiration from current practices that have been shown to be successful in mitigating no-show behavior and overbooking in the container shipping industry. Specifically, we consider a reservation system where inquiring shippers book cargo space using a customized deposit. The carrier, upon accepting the shipper’s booking request, matches the shipper’s deposit with a deposit of their own of equal size. If either party reneges on the agreement, the defaulting party loses their deposit to the more trustworthy party. However, if both parties uphold their side of the deal, the deposits are returned in full to both sides. Under this booking mechanism, we study the carrier’s sequential online booking problem, which gives rise to a new class of revenue management problems with overbooking and no-show behavior that share only superficial commonalities with existing frameworks.
 
