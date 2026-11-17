@@ -2,6 +2,7 @@
 title: "Separate versus Pooled Winsorization in Difference-in-Differences: Bias, Efficiency, and Finite-Sample Guarantees"
 excerpt: "Author: Chao Cheng, Chenshan Hu, Yukai Huang. Working paper."
 collection: portfolio
+research_status: working_paper
 ---
 
 You can download the paper here: [arXiv:2606.15097](https://arxiv.org/abs/2606.15097)

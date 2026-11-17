@@ -2,6 +2,7 @@
 title: "Inventory and Assortment Optimization under General Choice: A Unified Approximation Framework"
 excerpt: "Author: Jacob Feldman, Heng Zhang, Yukai Huang. Working paper."
 collection: portfolio
+research_status: working_paper
 ---
 
 You can download the paper here: [arXiv:2611.05708](https://arxiv.org/abs/2611.05708)

@@ -1,14 +1,31 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Research"
 permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+{% assign publications = site.portfolio | where: "research_status", "publication" %}
+{% assign under_review = site.portfolio | where: "research_status", "under_review" %}
+{% assign working_papers = site.portfolio | where: "research_status", "working_paper" %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+<h2 id="publications">Publications</h2>
+{% for post in publications %}
+  {% include archive-single.html heading="h3" %}
 {% endfor %}
+
+<h2 id="working-papers">Working Papers</h2>
+{% if under_review.size > 0 %}
+  <h3 id="manuscripts-under-review">Manuscripts Under Review</h3>
+  {% for post in under_review %}
+    {% include archive-single.html heading="h4" %}
+  {% endfor %}
+{% endif %}
+
+{% if working_papers.size > 0 %}
+  <h3 id="preprints">Preprints</h3>
+  {% for post in working_papers reversed %}
+    {% include archive-single.html heading="h4" %}
+  {% endfor %}
+{% endif %}
 
