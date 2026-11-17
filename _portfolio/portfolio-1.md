@@ -2,6 +2,7 @@
 title: "Joint Inventory and Assortment Optimization with Reusable Resources"
 excerpt: "Author: Yukai Huang, Jacob Feldman, Heng Zhang. Major revision in Operations Research."
 collection: portfolio
+paper_authors: "Yukai Huang, Jacob Feldman, Heng Zhang"
 status_label: "Major revision in Operations Research."
 research_status: under_review
 preprint_label: "SSRN"
