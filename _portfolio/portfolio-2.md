@@ -1,6 +1,6 @@
 ---
 title: "Prophet Inequalities and Approximation Schemes for a New Class of Overbooking Problems in Container Shipping"
-excerpt: "Author: Jacob Feldman, Panos Kouvelis, Yukai Huang. Major Revision at Operations Research"
+excerpt: "Author: Jacob Feldman, Panos Kouvelis, Yukai Huang. To appear in Operations Research."
 collection: portfolio
 ---
 

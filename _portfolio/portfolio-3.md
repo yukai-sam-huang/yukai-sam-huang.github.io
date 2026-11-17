@@ -1,6 +1,6 @@
 ---
 title: "Approximation Schemes for Dynamic Pricing with Opaque Products"
-excerpt: "Author: Xingxing Chen, Levi DeValve, Jacob Feldman, Yukai Huang, Danny Segev."
+excerpt: "Author: Xingxing Chen, Levi DeValve, Jacob Feldman, Yukai Huang, Danny Segev. Major revision in Operations Research."
 collection: portfolio
 ---
 You can download the paper here: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400432)
