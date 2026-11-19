@@ -29,6 +29,9 @@ Please feel free to explore my website to learn more about my research and teach
       {{ paper.title | escape }}.
       {% if paper.paper_authors %}{{ paper.paper_authors | escape }}.{% endif %}
       {{ paper.status_label | escape }}
+      {% if paper.publication_url %}
+        <a href="{{ paper.publication_url | escape }}">DOI</a>
+      {% endif %}
       {% if paper.preprint_url %}
         <a href="{{ paper.preprint_url | escape }}">{{ paper.preprint_label | escape }}</a>
       {% endif %}

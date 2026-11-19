@@ -49,7 +49,7 @@
 
     {% assign archive_excerpt = post.excerpt %}
     {% if post.collection == 'portfolio' and post.paper_authors %}
-      {% capture archive_excerpt %}Author: {{ post.paper_authors | escape }}. {{ post.status_label | escape }}{% endcapture %}
+      {% capture archive_excerpt %}Author: {{ post.paper_authors | escape }}. {{ post.status_label | escape }}{% if post.publication_url %} [DOI]({{ post.publication_url }}){% endif %}{% endcapture %}
     {% endif %}
     {% if archive_excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ archive_excerpt | markdownify }}</p>

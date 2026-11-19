@@ -1,13 +1,16 @@
 ---
-title: "Prophet Inequalities and Approximation Schemes for a New Class of Overbooking Problems in Container Shipping"
-excerpt: "Author: Jacob Feldman, Panos Kouvelis, Yukai Huang. To appear in Operations Research."
+title: "Prophet Inequalities for a New Class of Overbooking Problems in Container Shipping"
+excerpt: "Author: Jacob Feldman, Yukai Huang, Panos Kouvelis. Published in Operations Research, 74(6), 3421–3441 (2026)."
 collection: portfolio
-paper_authors: "Jacob Feldman, Panos Kouvelis, Yukai Huang"
-status_label: "To appear in Operations Research."
+paper_authors: "Jacob Feldman, Yukai Huang, Panos Kouvelis"
+status_label: "Published in Operations Research, 74(6), 3421–3441 (2026)."
+publication_url: "https://doi.org/10.1287/opre.2024.0842"
 research_status: publication
 preprint_label: "SSRN"
 preprint_url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124363"
 ---
+
+Feldman, J., Huang, Y., & Kouvelis, P. (2026). Prophet Inequalities for a New Class of Overbooking Problems in Container Shipping. *Operations Research*, 74(6), 3421–3441. [DOI: 10.1287/opre.2024.0842]({{ page.publication_url }})
 
 You can download the paper here: [{{ page.preprint_label }}]({{ page.preprint_url }})
 
